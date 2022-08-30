@@ -9,4 +9,5 @@ Content-Type: application/json
   "movieName": "Jurassic Park",
   "leadActor": "Jeff Goldblum"
 }
-
+###
+get http://localhost:3000/movies/5/
